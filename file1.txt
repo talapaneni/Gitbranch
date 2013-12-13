@@ -1,1 +1,2 @@
 step 1--- creating a master branch, project
+Finished coding for 1st release
